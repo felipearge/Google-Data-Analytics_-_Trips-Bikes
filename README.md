@@ -218,9 +218,9 @@ _Average (s):1450.47, Median (s): 709.00, Max time trips (s):10632022.00, Min ti
 statistic_usertype = df_copy.groupby('usertype')['alltripsRideLength'].agg(['mean', 'median', 'max', 'min']).reset_index()
 print(statistic_usertype)
 ```
-     usertype         mean  median         max   min
-0    Customer  3421.081143  1550.0  10632022.0  61.0
-1  Subscriber   859.668071   588.0   9056634.0  61.0
+     usertype         mean  median         max   min <br/>
+0    Customer  3421.081143  1550.0  10632022.0  61.0 <br/>
+1  Subscriber   859.668071   588.0   9056634.0  61.0 <br/>
 
 
 
