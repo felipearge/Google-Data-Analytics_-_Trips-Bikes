@@ -4,7 +4,7 @@ title: GDA Capstone - Cyclistic
 author: Felipe André de Quadros  
 date: 12/08/2023  
   
-Link project in Kaggle [here] (https://www.kaggle.com/code/felipequadros/divvy-trips-rev00)
+Link project in Kaggle [here](https://www.kaggle.com/code/felipequadros/divvy-trips-rev00)
   
 # Introduction and Study Objective
 This is the capstone project part of the Google Analytical Certificate Course.
